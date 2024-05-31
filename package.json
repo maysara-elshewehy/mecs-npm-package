@@ -2,7 +2,7 @@
 	"name"				: "packTag",
 	"version"			: "0.0.0",
 	"description"		: "packDesc",
-	"keywords"			: [ "xe-es", "nutty", "npm", "Maysara_Elshewehy" ],
+	"keywords"			: [ "je-es", "mecs", "npm", "Maysara_Elshewehy" ],
 	"license"			: "MIT",
 
 	"main"				: "./dist/main.js",
