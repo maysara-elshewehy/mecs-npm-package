@@ -18,7 +18,7 @@
 
 ### Documentation
 
-  - [Dummy](./src/docs/src/dummy.md)
+  - [API](./src/docs/src/api.md)
 
 ---
 
